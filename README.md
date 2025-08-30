@@ -1,7 +1,6 @@
 # MonoGame Splashscreens
 
-A community-made collection of splash screens and images you can use in your games to give more recognition to MonoGame — because Unity is garbage.
-
+An **unoffical** and community-made collection of splash screens and images you can use in your games to give more recognition to MonoGame - because Unity is garbage.
 
 ## 📂 Structure
 - `splashscreens/` → Fullscreen images
@@ -19,6 +18,6 @@ We welcome contributions! To add your designs:
 3. Submit a pull request
 
 ---
-All rights to the official **MonoGame logos** belong to the [MonoGame Foundation](https://www.monogame.net/).
+All rights to the official **MonoGame logos** belong to the [MonoGame Foundation](https://www.monogame.net/). Their offical Logos can be found [here](https://github.com/MonoGame/MonoGame.Logo)
 
 Made with ❤️ by the MonoGame community
