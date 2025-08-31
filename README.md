@@ -2,10 +2,6 @@
 
 An **unoffical** and community-made collection of splash screens and images you can use in your games to give more recognition to MonoGame - because Unity is garbage.
 
-## 📂 Structure
-- `splashscreens/` → Fullscreen images
-- `logos/` → Smaller logos and badges
-
 ## 🚀 How to Use
 1. Browse the folders
 2. Pick a splash screen or logo you like
